@@ -1,0 +1,68 @@
+.header {
+    color: white;
+    height: 100px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.header > div {
+    margin: 20px;
+}
+.bagLogo {
+    width: 300px;
+}
+
+.searchBar {
+    background-color: #1c1c1c;
+    height: 50px;
+    flex: 1;
+    display: flex;
+    border-radius: 50px;
+    align-items: center;
+}
+
+.searchIcon {
+    color: white;
+    width: 20px;
+    margin: 5px;
+}
+
+.searchIconContainer {
+    margin: 10px;
+}
+
+.searchInput {
+    background-color: transparent;
+    border: none;
+    width: 100%;
+    outline: none;
+    color: #eee;
+    font-size: 16px;
+}
+
+
+.headerItems {
+    display:flex;
+    color: #a1a5b0;
+}
+.headerItems > p {
+    margin: 10px;
+}
+
+.headerSocials {
+    display:flex;
+    align-items: center;
+
+}
+.headerSocials img {
+    width: 30px;
+}
+
+.headerSocials > div {
+    margin: 10px;
+}
+
+
+
