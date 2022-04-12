@@ -1,0 +1,6 @@
+DAO Contract:
+1: Collects investors money (ether) and allocate shares
+2: Keeps Track of investors contributions with shares
+3: Allow Investors to transfer shares
+4: Allow investment proposals to be created and voted
+5: Execute successful investment proposales (i.e send money)
