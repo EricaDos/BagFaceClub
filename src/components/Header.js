@@ -19,10 +19,11 @@ const Header = () => {
             </div>
             <div className='headerItems'>
 
-                <p>Drops</p>
-                <p>Marketplace</p>
+                <a class="active" href="#about">About</a>
+                <a href="#governance">Governance</a>
+                <a href="#claim">Claim</a>
+                <a href="#proposal">Proposal</a>
 
-                <p>About</p>
             </div>
 
             <div className='headerSocials'>
